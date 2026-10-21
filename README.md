@@ -57,7 +57,6 @@ Key fields: Transaction ID, Customer ID, Purchase Date, Age, Gender, Location, O
 .
 ├── README.md
 ├── customer_shopping_behavior_Analysis.xlsx      # Cleaned data + all analysis sheets
-├── customer_shopping_dashboard.html              # Interactive dashboard (open in any browser)
 ├── Customer_Shopping_Behavior_Findings_and_Recommendations.docx   # 2-page findings report
 ```
 
