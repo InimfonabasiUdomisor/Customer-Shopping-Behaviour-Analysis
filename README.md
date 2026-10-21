@@ -166,12 +166,11 @@ Excel (structured tables, IFS, COUNTIFS, SUMIFS, AVERAGEIFS, MINIFS, PERCENTRANK
 
 ## Data source and licence
 
-- **Source:** [add dataset name, link and date accessed]
-- **Licence / terms of use:** [add licence or usage terms]
-- **Nature of data:** [state whether the dataset is public, practice or synthetic]
+- **Source:** (https://www.kaggle.com/datasets/rewantbhriguvanshi/customer-shopping-trends-indian)
+- **Nature of data:** Public
 - No confidential employer data is used.
 
 ## Author
 
 **Inimfonabasi Udomisor** | Data & Business Intelligence Analyst
-[Email] · [LinkedIn] · [Portfolio: inimfonabasi-emmanuel.super.site]
+inimfonabasiudomisor@gmail.com
