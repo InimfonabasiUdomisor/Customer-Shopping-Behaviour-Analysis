@@ -1,6 +1,6 @@
 # Customer Shopping Behavior Analysis
 
-**Revenue, delivery, retention and customer segmentation for a fashion retailer (Excel + interactive HTML dashboard)**
+**Revenue, delivery, retention and customer segmentation for a fashion retailer (Excel)**
 
 An end-to-end analysis of 10,000 retail orders from 2,581 customers across 20 Indian cities, 1 January 2023 to 31 December 2024. The project takes a raw transaction sheet through documented cleaning, a nine-sheet Excel analysis and an interactive dashboard, and ends with quantified recommendations.
 
@@ -59,7 +59,6 @@ Key fields: Transaction ID, Customer ID, Purchase Date, Age, Gender, Location, O
 ├── customer_shopping_behavior_Analysis.xlsx      # Cleaned data + all analysis sheets
 ├── customer_shopping_dashboard.html              # Interactive dashboard (open in any browser)
 ├── Customer_Shopping_Behavior_Findings_and_Recommendations.docx   # 2-page findings report
-└── images/                                       # Dashboard screenshots (optional)
 ```
 
 ## Workbook guide
