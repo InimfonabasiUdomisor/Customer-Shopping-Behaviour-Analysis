@@ -146,17 +146,17 @@ Sale Flag          =IF([@[Festival/Sale]]<>"Normal Day",1,0)
 - Revenue is **gross of returns**; net revenue after returns is about ₹15.4M.
 - Two years of history support only a single-factor baseline forecast.
 - The fall in new customers may partly reflect how the dataset was assembled; confirm with the data owner.
-- The discount pattern is counter-intuitive, so no conclusions are drawn about discount effectiveness.
-- No cost, margin, stock or marketing data: findings describe revenue and behaviour, not profit or return on investment.
+- The discount pattern is counterintuitive, so no conclusions are drawn about discount effectiveness.
+- No cost, margin, stock, or marketing data: findings describe revenue and behaviour, not profit or return on investment.
 - RFM segment sizes are partly mechanical because they are rank-based; revenue shares carry the insight.
 - Delivery and ratings are linked by association, not proven cause.
 
 ## How to use
 
-1. **Workbook:** open `customer_shopping_behavior_Analysis.xlsx` in Excel 2019 or Microsoft 365 (the formulas use `IFS`, `MINIFS` and `PERCENTRANK.EXC`). Start at the **Data Dictionary** sheet, then move through the analysis sheets in order.
+1. **Workbook:** Open `customer_shopping_behavior_Analysis.xlsx` in Excel 2019 or Microsoft 365 (the formulas use `IFS`, `MINIFS` and `PERCENTRANK.EXC`). Start at the **Data Dictionary** sheet, then move through the analysis sheets in order.
 2. **Dashboard:** open `customer_shopping_dashboard.html` in any modern browser; no installation or internet connection is needed. Filter by channel and time period; all charts update together.
 3. **Report:** `Customer_Shopping_Behavior_Findings_and_Recommendations.docx` is a two-page summary for non-technical readers.
-4. **Reproduce:** the analysis sheets are driven by live formulas against the `Data` table, so changes to the cleaned data flow through automatically.
+4. **Reproduce:** The analysis sheets are driven by live formulas against the `Data` table, so changes to the cleaned data flow through automatically.
 
 ## Tools and skills
 
